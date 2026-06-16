@@ -6,7 +6,7 @@ import { useEffect, useRef, useState } from "react";
 // Número en formato internacional de WhatsApp (Argentina: 54 + 9 + área + número)
 const WHATSAPP_NUMBER = "5492616175453";
 const WHATSAPP_MESSAGE =
-  "Sii Mate obvio que quiero ir a comer sushi con vos, la verdad que te re extrañé y perdón por lo que hice";
+  "Sii Mate obvio que quiero ir a comer sushi con vos, la verdad que te re extrañé";
 const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(
   WHATSAPP_MESSAGE
 )}`;
