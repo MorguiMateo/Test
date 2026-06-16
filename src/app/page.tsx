@@ -29,6 +29,7 @@ const TEASES = [
   "Pancha",
   "Emo",
   "Sucia",
+  "Enana",
 ];
 
 // Ilustración estilo Pompompurin (perrito amarillo con boina marrón)
